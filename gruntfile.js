@@ -2,6 +2,8 @@
 var grunt = require('grunt')
   , fs = require('fs')
   , path = require('path')
+  
+var test2 = 1
 
 var actionheroRoot = function(){
   var rv
