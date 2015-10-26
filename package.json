@@ -1,7 +1,7 @@
 {
   "author": "Jeff Douglas <jeff@appirio.com>",
   "name": "tco-api",
-  "description": "API for TopCoder Open",
+  "description": "APIs for TopCoder Open",
   "version": "0.0.1",
   "engines": {
     "node": ">=0.8.0"
